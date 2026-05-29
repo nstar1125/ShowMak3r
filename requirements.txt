@@ -1,0 +1,17 @@
+numpy
+scikit-image
+open3d
+viser
+tyro
+opencv-python-headless
+diffusers
+transformers
+accelerate
+pycocotools
+controlnet_aux
+mediapipe
+torch-scatter
+wandb
+pickle5
+lpips
+omegaconf

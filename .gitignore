@@ -1,0 +1,5 @@
+demo/*
+results
+wandb
+showmak3r/pipeline/smpl_deform/smpl/smpl_model/*
+__pycache__
