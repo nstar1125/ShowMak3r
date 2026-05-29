@@ -1,0 +1,75 @@
+ShowMak3r Research and Educational Use License
+
+Copyright (c) 2026, Visual & Geometric Intelligence (VGI) Lab,
+Seoul National University. All rights reserved.
+
+This software and associated documentation files (the "Software") are
+developed by the Visual & Geometric Intelligence (VGI) Lab at Seoul
+National University and are made available for non-commercial research
+and educational use only, including academic research.
+
+1. Scope
+
+This license applies only to the original source code and other
+copyrightable material in this repository that is owned or controlled by
+the copyright holders (the "Licensors").
+
+Third-party software, models, datasets, weights, and other materials are
+not covered by this license. They remain subject to their own license
+terms, notices, and restrictions. 
+
+2. License Grant
+
+Subject to the terms of this license, permission is hereby granted, free
+of charge, to any person obtaining a copy of the Software to use,
+reproduce, modify, and redistribute the Software, in source or binary
+form, solely for non-commercial research and educational purposes,
+including academic research.
+
+3. Redistribution and Commercial Use
+
+Redistribution of the Software in source or binary form, with or without
+modification, is permitted only if:
+
+(a) Redistributions of source code retain this copyright notice, this
+    list of conditions, and the disclaimer below.
+
+(b) Redistributions in binary form reproduce this copyright notice, this
+    list of conditions, and the disclaimer below in the documentation
+    and/or other materials provided with the distribution.
+
+(c) Modified files carry prominent notices stating that they were
+    changed.
+
+(d) Neither the name of Seoul National University, the Visual &
+    Geometric Intelligence (VGI) Lab, nor the names of the contributors
+    may be used to endorse or promote products or services derived from
+    the Software without specific prior written permission.
+
+Any commercial use of the Software, including use in or for a commercial
+product or service, or other use for commercial advantage or monetary
+compensation, requires prior written permission from the Licensors.
+
+For commercial licensing and permission inquiries, please contact:
+
+Professor Jaesik Park
+jaesik.park@snu.ac.kr
+
+4. Patent Reservation
+
+No express or implied patent license is granted under this license. Any
+patent rights, if any, related to the Software are reserved by the
+Licensors, except to the limited extent that a patent license is
+unavoidably granted by a third-party license that applies to third-party
+material and not to the Software itself.
+
+5. Disclaimer of Warranty and Limitation of Liability
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND
+NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR
+CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT
+OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OF OR OTHER DEALINGS
+IN THE SOFTWARE.
